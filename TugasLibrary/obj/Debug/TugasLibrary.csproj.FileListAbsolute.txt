@@ -1,0 +1,18 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb

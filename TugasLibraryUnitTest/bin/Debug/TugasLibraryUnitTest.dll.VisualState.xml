@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1004]D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll</TopNode>
+  <SelectedNode>[0-1004]D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1005]TugasUnitTest" Expanded="true" />
+    <Node UniqueName="[0-1000]TugasUnitTest.DayTest" Expanded="true" />
+    <Node UniqueName="[0-1002]TugasUnitTest.UserTest" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,11 @@
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.xml
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csprojAssemblyReference.cache
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CopyComplete
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+D:\SEMESTER 3\PemrogramanLanjut\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
